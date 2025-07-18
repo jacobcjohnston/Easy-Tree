@@ -1,9 +1,0 @@
-{
-  "blender": "4.5",
-  "type": "add-on",
-  "name": "Easy Tree",
-  "version": "1.0.0",
-  "author": "Jacob Johnston",
-  "license": "MIT",
-  "entry": "__init__.py"
-}
