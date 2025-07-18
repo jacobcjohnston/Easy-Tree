@@ -58,8 +58,22 @@ Designed for flexibility and ease of use, it includes both one-click presets and
 - Assets are stored in the `assets/` folder inside the add-on
 - All geometry node groups are **appended** (not linked), so you can edit them freely
 - CC0 bark textures from [ambientCG](https://ambientcg.com) are included as optional material examples
+      - https://ambientcg.com/view?id=Bark001
+      - https://ambientcg.com/view?id=LeafSet017
+      - https://ambientcg.com/view?id=LeafSet024
+      - https://ambientcg.com/view?id=LeafSet014
+      - https://docs.ambientcg.com/license/
+
+Created using Bark001, LeafSet017, LeafSet024, LeafSet014 from ambientCG.com,
+licensed under the Creative Commons CC0 1.0 Universal License.
+
 
 ---
+
+## Issues
+For any glitches or issues, message me here: https://github.com/jacobcjohnston/Easy-Tree/issues
+(Or just if you want to download it directly)
+
 
 ## 🧪 Compatibility
 
@@ -70,24 +84,9 @@ Designed for flexibility and ease of use, it includes both one-click presets and
 
 ## 📜 License
 
-This add-on is licensed under the **MIT License**.  
+This add-on is licensed under the **GPL-3.0 License**.  
 See the [LICENSE](./LICENSE) file for details.
 
 &copy; 2025 Jake Johnston
 
 ---
-
-## 🛠️ Future Plans
-
-- [ ] Randomized tree placement
-- [ ] More branch variation tools
-- [ ] macOS/Linux testing and optimization
-
----
-
-## 📷 Screenshots (to add)
-
-- Easy Tree panel UI
-- Example trees using presets
-- Custom leaf mesh example
-- Bark materials applied via included UVs
